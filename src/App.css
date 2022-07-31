@@ -19,12 +19,5 @@ background-color: rgb(236, 200, 152);
 .header img {
   width: 25px;
 }
-.nav {
-grid-area: n;
-background-color: blanchedalmond;
-}
 
-.content {
-grid-area: c;
-background-color: rgb(155, 115, 82);
-}
+
