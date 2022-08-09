@@ -1,9 +1,10 @@
 .nav {
-    grid-area: n;
-    background-color: blanchedalmond;
-    }
-    
+  grid-area: n;
+  background-color: blanchedalmond;
+}
 
-    .item {
-        color: white;
-    }
+.item {
+  color: rgb(0, 0, 0);
+  margin-left: 33.33%;
+  padding-top: 10px;
+}

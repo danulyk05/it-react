@@ -1,7 +1,10 @@
 .app-wrapper {
   margin: 0 auto;
   display: grid;
-  width: 1200px;
+  /* width: 1200px; */
+  min-height: 100%;
+  
+  
 
   grid-template-areas:
   "h h"
@@ -9,15 +12,7 @@
   
    grid-template-rows: 60px 1fr ;
    grid-template-columns: 2fr 10fr ;
+   grid-gap: 20px;
+  
 }
-
-.header {
-grid-area: h;
-background-color: rgb(236, 200, 152);
-}
-
-.header img {
-  width: 25px;
-}
-
 

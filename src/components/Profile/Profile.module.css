@@ -1,6 +1,7 @@
 .content {
   grid-area: c;
   background-color: rgb(155, 115, 82);
+  max-height: 100%;
 }
 
 
